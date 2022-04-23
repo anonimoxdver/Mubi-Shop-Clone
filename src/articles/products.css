@@ -1,0 +1,90 @@
+.articles-main {
+    display: grid;
+    grid-template-columns: repeat(auto-fit,
+    minmax(440px, 447px));
+    
+ 
+}
+
+.img-main {
+  max-width: 450px;
+  min-height: 450px;
+  background-size: 100% 100%;
+}
+
+.imgback1 {
+  background-image: url("https://res.cloudinary.com/dsii7wbi4/image/upload/v1650741555/MubiShop/MUBISHOP_LIMBO_1_updated_c4356ba4-cc54-4b25-a2e4-9be9845fa8dd_300x_zhozwk.webp");
+}
+
+.imgback2 {
+    background-image: url('//cdn.shopify.com/s/files/1/0509/7003/4350/products/1I5A9085_CopyrightRichardBoll_7f6e2372-4af5-40c8-b671-2772d796471a_300x.jpg?v=1606753539');
+}
+.imgback3 {
+  background-image: url('https://res.cloudinary.com/dsii7wbi4/image/upload/v1650752726/MubiShop/mockup-mug-3-03_720x_mjlnfz.webp');
+}
+.imgback4 {
+  background-image: url('https://res.cloudinary.com/dsii7wbi4/image/upload/v1650753508/MubiShop/1I5A9000_CopyrightRichardBoll_720x_dyurss.webp');
+}
+.imgback5 {
+  background-image: url('https://res.cloudinary.com/dsii7wbi4/image/upload/v1650753723/MubiShop/MUBISHOP_LIMBO_1_720x_m8pt80.webp');
+}
+.imgback6 {
+  background-image: url('https://res.cloudinary.com/dsii7wbi4/image/upload/v1650753728/MubiShop/1I5A9063_CopyrightRichardBoll_720x_nwtugp.webp');
+}
+.imgback1:hover {
+  background-image: none;
+}
+.imgback2:hover {
+    background-image: none;
+  }
+.imgback3:hover {
+  background-image: none;
+}
+.imgback4:hover {
+  background-image: none;
+}
+.imgback5:hover {
+  background-image: none;
+}
+.imgback6:hover {
+  background-image: none;
+}
+.img-main:hover .descripcion {
+    display: block;
+}
+
+.descripcion {
+  padding-top: 39%;
+  color: rgb(0, 0, 0, 1);
+  overflow: hidden;
+  text-align: center;
+  font-size: 14px;
+  line-height: 22px;
+  display: none;
+}
+
+.title-content {
+  display: block;
+  opacity: 0;
+  animation: revealText 0.2s forwards;
+}
+.title-secont {
+  animation-delay: 0.175s;
+    color: rgb(0, 0, 0, 5);
+  font-size: 17px;
+  font-weight: bold;
+}
+.title-third {
+  animation-delay: 0.25s;
+
+}
+
+@keyframes revealText {
+  from {
+    transform: translateY(22px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}

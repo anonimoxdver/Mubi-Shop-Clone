@@ -1,0 +1,47 @@
+.footer-main {
+    width: 100%;
+    height: 360px;
+}
+.welcome {
+    margin: 2% auto auto auto;
+    width: 430px ;
+    overflow: hidden;
+    text-align: center;
+}
+
+.welcome-footer {
+    font-size: 14px;
+    color: rgb(61, 61, 61);
+    font-weight: bold;
+}
+
+.p-footer{
+    margin-top: 7%;
+    font-size: 13px;
+    line-height: 23px;
+    font-weight: lighter;
+    color: rgb(61, 61, 61);
+}
+
+.copy {
+    margin: 1%;
+    text-align: center;
+    font-size: 14px;
+    color: rgb(61, 61, 61);
+}
+
+.copy a {
+    text-decoration: none;
+    color: rgb(61, 61, 61);
+}
+
+.copy a:hover {
+    opacity: 0.6;
+}
+
+.networks-footer {
+    margin: 8% 0% 0% 7%;
+    text-align: left;
+    opacity: 0.8;
+    
+}
