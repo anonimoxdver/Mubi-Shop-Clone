@@ -1,6 +1,7 @@
 .navbar-main {
     width: 100%;
     height: 76px;
+    
 }
 
 .logo {
@@ -10,12 +11,6 @@
     margin: -39px auto 0px auto;
 }
 
-.hamburger {
-   
-    display: block;
-    padding: 1em ;
-    width: 30px;
-}
 
 .lupa {
     display: block;
@@ -29,4 +24,87 @@
     margin: -29px 2% 0% auto;
     width: 30px;
    
+}
+
+.hamburger {
+   background-color: transparent;
+   border: none;
+   cursor: pointer;
+   outline: none;
+    display: block;
+    padding: 1em ;
+    width: 30px;
+    
+    
+}
+
+
+.hamburger .line {
+    display: block;
+    width: 40px;
+    height: 3px;
+    background-color: #000000;
+    border-radius: 4px;
+    margin-block: 6px;
+    transition: transform .5s;
+    opacity: .25s;
+   
+
+}
+
+.hamburger.active .line:nth-child(1) {
+    transform: translateY(13px)
+    rotate(45deg);
+}
+
+.hamburger.active .line:nth-child(2) {
+    opacity: 0;
+}
+
+.hamburger.active .line:nth-child(3) {
+    transform: translateY(-6px)
+    rotate(-45deg);
+}
+
+.menu-navbar {
+    height: 578px;
+    width: 300px;
+    z-index: 100;
+    top: 50px;
+    background-color: #ffff;
+   position: absolute;
+   position: fixed;
+    display: inline-flex;
+    transform: translateX(-100%);
+    transition: .5s;
+}
+
+.menu-navbar.active2 {
+    transform: translateX(-0%);
+    transition: .5s;
+}
+
+.networks-navbar {
+    margin: 100% 60% auto 8%;
+    position: absolute;
+    
+}
+
+.home-navbar {
+    margin: 27% 6% 9%;
+    position: absolute;
+    color: rgb(61, 61, 61);
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 14px;
+  
+}
+
+.shop-navbar {
+    position: absolute;
+    margin: 40% 0% 0% 6%;
+    color: rgb(61, 61, 61);
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 14px;
 }

@@ -1,0 +1,193 @@
+{
+    "aticlesDB": [
+      {
+            "id": "1",
+            "nameOfProduct":"Canvas Tote Bag",
+            "descripcionOfProduct": "Papa's Got a Brand Blue Bag",
+            "price": "£20",
+            "path": "/papas-got-a-brand-blue-bag",
+            "descriptionRoute": "Our bold MUBI branding. On our signature-blue bag.",
+            "measures": "Crisp screen-printed logos, on a strong sturdy tote. It’s simple. It works. It's pretty lovely to look at. All the things a great bag should be. Measurements: 370 x 410 mmCrisp screen-printed logos, on a strong sturdy tote. It’s simple. It works. It's pretty lovely to look at. All the things a great bag should be. Measurements: 370 x 410 mm",
+            "image1": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1650854391/MubiShop/MUBISHOP_LIMBO_1_updated_c4356ba4-cc54-4b25-a2e4-9be9845fa8dd_900x_nmbwrg.webp",
+            "image2": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1650854401/MubiShop/MUBISHOP_LIMBO_2_updated_900x_r2sb2y.webp",
+            "images": [
+                {
+                     "position1":"https://res.cloudinary.com/dsii7wbi4/image/upload/v1650854401/MubiShop/MUBISHOP_LIMBO_2_updated_900x_r2sb2y.webp",
+                    "position2":"https://res.cloudinary.com/dsii7wbi4/image/upload/v1650854391/MubiShop/MUBISHOP_LIMBO_1_updated_c4356ba4-cc54-4b25-a2e4-9be9845fa8dd_900x_nmbwrg.webp",
+                    "position3": ""
+                }
+               
+            ],
+            "classDfault1": "imgback2-2 imgback2",
+            "classDfault2": "imgback3-3 imgback3",
+            "description1": "The Same Old Brand New Bag",
+            "description2": "BREATHLESS",
+            "price1": "£25",
+            "price2": "£15"
+           
+
+        },  
+        {
+            "id": "2",
+            "nameOfProduct":"Limited Edition Canvas Tote Bag",
+            "descripcionOfProduct": "The Same Old Brand New Bag",
+            "price": "£25",
+            "path": "/the-same-old-brand-new-bag",
+            "descriptionRoute": "Limited Edition canvas tote bag.",
+            "measures": "Our brand new, nice blue logos - screen printed on top of our original (and now gone forever) MUBI tote. Two eras of MUBI, on one bag.  Measurements: 360 x 440 mm",
+            "image1": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1650855289/MubiShop/1I5A9085_CopyrightRichardBoll_7f6e2372-4af5-40c8-b671-2772d796471a_720x_qs2jmj.webp",
+            "image2": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1650855320/MubiShop/1I5A9042_CopyrightRichardBoll_720x_onplen.webp",
+            "images": [
+                {
+                     "position1":"https://res.cloudinary.com/dsii7wbi4/image/upload/v1650855296/MubiShop/1I5A9045_CopyrightRichardBoll_720x_stb0j1.webp",
+                    "position2":"https://res.cloudinary.com/dsii7wbi4/image/upload/v1650855364/MubiShop/1I5A9049_CopyrightRichardBoll_300x_q0ejfv.webp",
+                    "position3": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1650855327/MubiShop/NumberBAG_720x_ufv1lg.webp"
+                }
+               
+            ],
+            "classDfault1": "imgback1-1 imgback1",
+            "classDfault2": "imgback3-3 imgback3",
+            "description1": "Papa's Got a Brand Blue Bag",
+            "description2": "BREATHLESS",
+            "price1": "£20",
+            "price2": "£15"
+     
+
+        },       
+        {
+            "id": "3",
+            "nameOfProduct":"Limited Edition Mug",
+            "descripcionOfProduct": "BREATHLESS",
+            "price": "£15",
+            "path": "/breathless",
+            "classDfault": "imgback3-3",
+            "descriptionRoute": "Limited Edition MUBI Mug | Jean Luc-Godard’s À BOUT DE SOUFFLE (1960)",
+            "measures": "Ceramic mug with bespoke dotted image and hand numbering. Measurements: height 95 mm | diameter 80 mm | weight 411g",
+            "image1": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1650814839/MubiShop/1I5A8884_CopyrightRichardBoll2020_300x_dzuae3.webp",
+            "image2": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1650814691/MubiShop/1I5A8870_CopyrightRichardBoll2020_300x_xiatrc.webp",
+            "images": [
+                {
+                    "position1":"https://res.cloudinary.com/dsii7wbi4/image/upload/v1650814700/MubiShop/1I5A8862_CopyrightRichardBoll2020_300x_htdaqd.webp",
+                    "position2":"https://res.cloudinary.com/dsii7wbi4/image/upload/v1650814706/MubiShop/1I5A8860_CopyrightRichardBoll2020_300x_ktuhnc.webp",
+                    "position3": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1650814713/MubiShop/MUG_NumberOK_300x_wtp1a5.webp"
+                }
+               
+            ],
+            "classDfault1": "imgback1-1 imgback1",
+            "classDfault2": "imgback2-2 imgback2",
+            "description1": "The Same Old Brand New Bag",
+            "description2": "Papa's Got a Brand Blue Bag",
+            "price1": "£25",
+            "price2": "£20" 
+
+        },        
+        {
+            "id": "4",
+            "nameOfProduct":"Limited Edition Poster",
+            "descripcionOfProduct": "EMA",
+            "price": "£25",
+            "path": "ema",
+            "classDfault": "imgback4-4",
+            "descriptionRoute": "Limited Edition MUBI Poster | Pablo Larraín’s EMA (2019)",
+            "measures": "Two neon colour offset print on Symbol Silk with hand numbering. Measurements: 500 x 700mm",
+            "image1": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1650855730/MubiShop/1I5A9000_CopyrightRichardBoll_9716bde8-ea75-4d4b-9827-6cd5532d048e_540x_yrwej6.webp",
+            "image2": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1650855738/MubiShop/1I5A9004_CopyrightRichardBoll_540x_h4zgff.webp",
+            "images": [
+                {
+                     "position1":"https://res.cloudinary.com/dsii7wbi4/image/upload/v1650855761/MubiShop/Number001_615bf974-b114-4dd8-8db9-ed8750a645a7_540x_q48lqh.webp",
+                    "position2":"https://res.cloudinary.com/dsii7wbi4/image/upload/v1650855730/MubiShop/1I5A9000_CopyrightRichardBoll_9716bde8-ea75-4d4b-9827-6cd5532d048e_540x_yrwej6.webp",
+                    "position3": ""
+                }
+               
+            ],
+            "classDfault1": "imgback6-6 imgback6",
+            "classDfault2": "imgback3-3 imgback3",
+            "classDfault3": "imgback1-1 imgback1",
+            "classDfault4": "imgback2-2 imgback2",
+            "description1": "UNDER THE SILVER LAKE",
+            "description2": "BREATHLESS",
+            "description3": "Papa's Got a Brand Blue Bag",
+            "description4": "The Same Old Brand New Bag",
+            "price1": "£25",
+            "price2": "£15",
+            "price3": "£20",
+            "price4": "£25"
+      
+
+
+        },      
+        {
+            "id": "5",
+            "nameOfProduct":"Official Poster",
+            "descripcionOfProduct": "LIMBO",
+            "price": "£25",
+            "path": "/limbo",
+            "classDfault": "imgback5-5",
+            "descriptionRoute": "Ben Sharrock’s LIMBO (2020) | Official Poster",
+            "measures": "Official MUBI / Caravan Cinema poster. Digital flatbed print. Measurements: A2 (420 x 594mm)",
+            "image1": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1650855891/MubiShop/MUBISHOP_LIMBO_1_131ec454-8b7f-43d8-b84c-502d05680e2e_540x_y4b2dh.webp",
+            "image2": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1650855905/MubiShop/MUBISHOP_LIMBO_2_540x_cqm0xg.webp",
+            "images": [
+                {
+                     "position1":"https://res.cloudinary.com/dsii7wbi4/image/upload/v1650855891/MubiShop/MUBISHOP_LIMBO_1_131ec454-8b7f-43d8-b84c-502d05680e2e_540x_y4b2dh.webp",
+                    "position2":"https://res.cloudinary.com/dsii7wbi4/image/upload/v1650855905/MubiShop/MUBISHOP_LIMBO_2_540x_cqm0xg.webp",
+                    "position3": ""
+                }
+               
+            ],
+            "classDfault1": "imgback4-4 imgback4",
+            "classDfault2": "imgback6-6 imgback6",
+            "description1": "EMA",
+            "description2": "UNDER THE SILVER LAKE",
+            "price1": "£25",
+            "price2": "£25"
+     
+
+        } ,       
+        {
+            "id": "6",
+            "nameOfProduct":"Limited Edition Poster",
+            "descripcionOfProduct": "UNDER THE SILVER LAKE",
+            "price": "£25",
+            "path": "/under-the-silver-lake",
+            "descriptionRoute": "Limited Edition MUBI Poster | David Robert Mitchell’s UNDER THE SILVER LAKE (2018)",
+            "measures": "Two colour and silver offset print on Symbol Silk with hand numbering. Measurements: 500 x 700mm",
+            "image1": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1650856093/MubiShop/1I5A9063_CopyrightRichardBoll_7b61ce61-0c58-49fe-8842-12c7474adf02_540x_zfxsp0.webp",
+            "image2": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1650856098/MubiShop/1I5A9073_CopyrightRichardBoll_540x_qmfwcl.webp",
+            "images": [
+                {
+                     "position1":"https://res.cloudinary.com/dsii7wbi4/image/upload/v1650856103/MubiShop/Number001_beef77a5-12a0-46bc-8377-5045c6572321_540x_hjefgp.webp",
+                    "position2":"https://res.cloudinary.com/dsii7wbi4/image/upload/v1650856093/MubiShop/1I5A9063_CopyrightRichardBoll_7b61ce61-0c58-49fe-8842-12c7474adf02_540x_zfxsp0.webp",
+                    "position3": ""
+                }
+               
+            ] ,
+            "classDfault1": "imgback4-4 imgback4",
+            "classDfault2": "imgback3-3 imgback3",
+            "classDfault3": "imgback1-1 imgback1",
+            "classDfault4": "imgback2-2 imgback2",
+            "description1": "EMA",
+            "description2": "BREATHLESS",
+            "description3": "Papa's Got a Brand Blue Bag",
+            "description4": "The Same Old Brand New Bag",
+            "price1": "£25",
+            "price2": "£15",
+            "price3": "£20",
+            "price4": "£25"
+
+
+
+
+        }
+
+    ]
+}
+      
+   
+        
+
+ 
+        
+
+  
+  

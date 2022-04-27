@@ -1,14 +1,14 @@
 .articles-main {
     display: grid;
     grid-template-columns: repeat(auto-fit,
-    minmax(440px, 447px));
+    minmax(438px, 447px));
     
  
 }
 
 .img-main {
-  max-width: 450px;
-  min-height: 450px;
+  width: 449px;
+  height: 450px;
   background-size: 100% 100%;
 }
 
@@ -17,7 +17,7 @@
 }
 
 .imgback2 {
-    background-image: url('//cdn.shopify.com/s/files/1/0509/7003/4350/products/1I5A9085_CopyrightRichardBoll_7f6e2372-4af5-40c8-b671-2772d796471a_300x.jpg?v=1606753539');
+    background-image: url('https://res.cloudinary.com/dsii7wbi4/image/upload/v1650834157/MubiShop/1I5A9085_CopyrightRichardBoll_7f6e2372-4af5-40c8-b671-2772d796471a_300x_1_dacvk6.webp');
 }
 .imgback3 {
   background-image: url('https://res.cloudinary.com/dsii7wbi4/image/upload/v1650752726/MubiShop/mockup-mug-3-03_720x_mjlnfz.webp');

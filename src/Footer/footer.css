@@ -1,6 +1,6 @@
 .footer-main {
     width: 100%;
-    height: 360px;
+    height: 150px;
 }
 .welcome {
     margin: 2% auto auto auto;
@@ -13,6 +13,8 @@
     font-size: 14px;
     color: rgb(61, 61, 61);
     font-weight: bold;
+ 
+    
 }
 
 .p-footer{
@@ -24,10 +26,16 @@
 }
 
 .copy {
-    margin: 1%;
+    margin: -2% 0% 0% 0%;
     text-align: center;
     font-size: 14px;
     color: rgb(61, 61, 61);
+}
+
+.footer2-main {
+   
+    width: 100%;
+    height: 70px;
 }
 
 .copy a {

@@ -1,0 +1,161 @@
+.imgproduct-1 {
+    display: grid;
+    grid-template-columns: repeat(auto-fit,
+    minmax(50%, 500px));
+}
+
+.product-1 {
+    width: 100%;
+    height: 100%;
+    content: '';
+}
+
+
+
+.xdd {
+    width: 100%;
+    height: 300px;
+}
+
+.container-data {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.container-name {
+    width: 40%;
+}
+
+.container-description {
+    width: 45%;
+    
+  
+}
+
+.container {
+    margin: 3% 10% 10% 19%;
+}
+
+.container-p-1 {
+    font-weight: bold;
+    font-size: 13.5px;
+    color: rgb(61, 61, 61);
+}
+
+.container-p-2 {
+    font-size: 13px;
+    line-height: 20px;
+    color: rgb(61, 61, 61);
+}
+
+.container-description a {
+    text-decoration: none;
+    color: rgb(61, 61, 61);
+    font-size: 12px;
+}
+
+.img-container {
+    width: 20px;
+    margin: 0% 0% -1% 1%;
+}
+
+.name-con {
+    font-size: 18px;   
+}
+
+.price-con {
+    font-size: 20px;
+    color: rgb(61, 61, 61);
+}
+
+.tax-con {
+    font-size: 13px;
+}
+
+.cart-con {
+    width: 100%;
+    height: 1cm;
+    border: none;
+    margin: 10% 0% 3% 0%;
+    font-weight: bold;
+}
+
+.buy-con {
+    width: 100%;
+    height: 1cm;
+    border: none;
+    font-weight: bold;
+}
+
+.container-data button:hover {
+    opacity: 0.7;
+    border: 1px solid;
+}
+
+.also-like {
+    
+    width: 100%;
+   
+    height: 60px;
+}
+
+.also-like p {
+    text-align: center;
+    font-weight: bold;
+    font-size: 14px;
+    margin: 4%;
+}
+
+.articles-main2 {
+    display: grid;
+    grid-template-columns: repeat(auto-fit,
+    minmax(270px, 270px));
+    gap: 69px;
+    margin: 0% 2% 0% 2%;
+ 
+}
+
+.imgback1-1 {
+    width: 270px;
+    height: 270px;
+    background-image: url("https://res.cloudinary.com/dsii7wbi4/image/upload/v1650741555/MubiShop/MUBISHOP_LIMBO_1_updated_c4356ba4-cc54-4b25-a2e4-9be9845fa8dd_300x_zhozwk.webp");
+}
+
+.imgback2-2 {
+    width: 270px;
+    height: 270px;
+    background-image: url("https://res.cloudinary.com/dsii7wbi4/image/upload/v1650834157/MubiShop/1I5A9085_CopyrightRichardBoll_7f6e2372-4af5-40c8-b671-2772d796471a_300x_1_dacvk6.webp");
+}
+
+.home-anchor {
+    margin: 6% 0% 0% 47%;
+    background-color: rgb(235, 233, 233);
+    width: 100px;
+    height: 50px;
+    border-radius: 3px;
+    
+}
+
+
+.img-home {
+    width: 20px;
+    
+}
+
+.home {
+
+   margin-left:  10%;
+    text-decoration: none;
+    
+}
+
+.classDfault {
+    display: none;
+}
+
+
+.default {
+    display: none;
+}
