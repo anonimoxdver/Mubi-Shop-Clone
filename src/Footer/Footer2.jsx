@@ -25,6 +25,14 @@ export const Footer2 = () => {
       </div>
  
       <p className='copy'>© 2022,<Link to="/">MUBI SHOP</Link></p>
+       <a href="https://github.com/anonimoxdver/Mubi-Shop-Clone" className='a-github'>
+        
+      <div className='div-a'>
+             
+      
+      </div>
+</a>
+     
        
     </div>
   )
